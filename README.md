@@ -57,3 +57,5 @@ export const initStore = () => {
 
 ```
 4. place under _app.js import 'bootstrap/dist/css/bootstrap.min.css';
+
+5. create an index.js file under pages folder, this will be the entry route of our application
